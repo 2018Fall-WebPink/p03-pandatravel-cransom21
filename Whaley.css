@@ -1,0 +1,43 @@
+/*
+* Celea Ransom
+* 11/6/18
+* Panda Travel Agency  
+*/
+
+/* The universal selector */
+
+*  {
+
+}
+
+/* Body attributes here */
+
+body {
+width: 80%;
+margin: auto;
+background-image: repeating-radial-gradient(red, black);
+color: mediumpurple;
+}
+
+p{
+    font-size: 130%;
+  
+}
+#House{
+  width: 200px; height: 100px;
+   
+}
+
+#Sign {
+ width: 200px; height: 100px; 
+   
+}
+#Court {
+  width: 200px; height: 100px;   
+}
+#Court-Fig {
+    float: left;
+}
+#Sign-Fig {
+    float: left;
+}
